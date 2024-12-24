@@ -1,0 +1,10 @@
+.button-class{
+  background-color: rgba(0, 0, 0, 0.058);
+  font-size: 20px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  margin-right: 25px;
+  min-width: 50px;
+  min-height: 50px;
+  font-weight: bold;
+}
